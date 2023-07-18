@@ -1,0 +1,31 @@
+.faq-item-container {
+  border-radius: 8px;
+  border-color: #d7dae6;
+  border-width: 1px;
+  min-width: 400px;
+  margin: 15px;
+  padding: 10px;
+  border-style: solid;
+}
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.question-text {
+  color: #52606d;
+  font-size: 20px;
+}
+.line {
+  width: 550px;
+  color: #d7dae6;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+}
+.icon-button {
+  border: none;
+  background-color: transparent;
+}

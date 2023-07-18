@@ -1,0 +1,23 @@
+.bg-container {
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+  padding: 25px;
+  width: 700px;
+  height: 900px;
+}
+.faq-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #cb8805;
+  text-align: center;
+  padding-top: 20px;
+}
+.unordered-list {
+  list-style-type: none;
+  padding: 0px;
+}
